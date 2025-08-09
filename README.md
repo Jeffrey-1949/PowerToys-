@@ -1,4 +1,4 @@
-# PowerToys Keyboard Manager Switcher PowerToys键盘管理器切换工具
+# PowerToys Keyboard Manager Switcher（PowerToys键盘管理器切换工具）
 
 一个基于 **Python** 的轻量级工具，用于在 **Windows 系统托盘** 中快速管理  
 [Microsoft PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/) 的 **Keyboard Manager 引擎**。
