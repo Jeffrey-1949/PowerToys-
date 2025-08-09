@@ -43,6 +43,7 @@
 6. 退出程序：
    - 右键托盘图标 → 选择 退出
    - 或在任务管理器中结束 Python 进程（不推荐）
+![说明图片](https://github.com/user-attachments/assets/90ae6ce2-65bc-4c86-83e8-fb50a0d3308d)
 
 ---
 
