@@ -16,7 +16,7 @@ import win32api
 # 配置区
 # -------------------------------------------------------------------
 # Keyboard Manager 引擎，此处替换为PowerToys.KeyboardManagerEngine.exe的路径。
-KEYBOARD_MANAGER_PATH = r"C:\YourPath\PowerToys\KeyboardManagerEngine\PowerToys.KeyboardManagerEngine.exe"
+KEYBOARD_MANAGER_PATH = r"C:\Users\<你的用户名>\AppData\Local\PowerToys\KeyboardManagerEngine\PowerToys.KeyboardManagerEngine.exe"
 
 # -------------------------------------------------------------------
 # 工具函数
